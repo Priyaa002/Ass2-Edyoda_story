@@ -1,0 +1,162 @@
+body{
+  
+    background-color: #e8f1f9;
+    margin: 0;
+    font-family: 'Raleway',sans-serif;
+  }
+  .topbar{
+  display: inline-block;
+  padding: 16px 78px;
+  background-color:#fff;
+  width: 90%;
+  }
+  .logo{
+  color: #0084ff;
+  width: 130px;
+  font-size: 32px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 900;
+  font-style: bold;
+  letter-spacing: -0.9px;
+  display: inline-block;
+  }
+  .logo p{
+    height: 0px;
+    margin: 0px;
+  }
+  .logo_stories{
+  margin: 0px;
+  font-weight: 500;      
+  font-family: 'Raleway' sans-serif;
+  font-style: italic;
+  font-size: 15px;
+  letter-spacing: 1.5px;
+  color: black;
+  width: 130px;
+  }
+  .drop_text{
+    display: inline-block;
+    height: 0px;
+  }
+  .drop_text p{
+    color: #000;
+    margin-left: 50px;
+    margin-top: 0px;
+    width: fit-content;
+    display: inline-block;
+    font-family: 'Raleway',sans-serif;
+    font-size: 15px;
+    letter-spacing: 0px;
+  }
+  .drop_text i{
+    height: 20px;
+  padding-top: 0px;
+  padding-left: 8px;
+  display: inline-block;
+  
+  }
+  .content{
+  margin: auto;
+  display: block;
+  width: 70%;
+  margin-top: 20px;
+  }
+  .container{
+  margin-bottom: 20px;
+  font-size: 16px;
+  padding-top: 16px;
+  }
+  h1{
+  color: #000;
+  font-weight: 600;
+  margin: 0;
+  
+  }
+  .filter{
+    margin-top: 30px;
+    margin-bottom: 20px;
+  
+  }
+  .filter i{
+    color: #106dc4;
+  }
+  .filter p{
+  display: inline;
+  font-size: 14px;
+  font-weight: 600;
+  margin-left: 8px;
+  }
+  .categories{
+  padding: 6px 14px;
+  width: auto;
+  color: #0084ff;
+  background-color: transparent;
+  border-radius: 15px;
+  border: 1px solid #0084ff;
+  margin: 5px;
+  cursor: pointer;
+  }
+  .categories:active{
+    color: #fff;
+    background-color: #0084ff;
+  }
+  .main_box{
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+  .inner_box{
+    width: 30%;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 1px;
+    box-shadow: 1px 1px 5px 1px #7ca8d1;
+  background-color: white;
+  }
+  img{
+    height: 100%;
+    width: 100%;
+  }
+  .img_style{
+    height: 100%;
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 0px;
+  }
+  .text_section h2{
+  font-size: 18px;
+  text-align: left;
+  margin: 0;
+  font-weight: 600;
+  width: fit-content;
+  padding: 10px 24px;
+  }
+  .text{
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.43;
+  color: rgba(0,0,0,.6);
+  margin: 4px 0;
+  padding: 10px 24px;
+  }
+  .author_name{
+  color: #0084ff;
+  display: inline-block;
+  text-align: left;
+  width: fit-content;
+  padding: 10px 24px;
+  margin: 0px;
+  }
+  
+  .date{
+    color: rgba(0,0,0,.7);
+    font-size: 14px;
+    font-weight: 300;
+    display: inline-block;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  
+  footer{
+    background-color: #172146;
+    padding:  80px 16%;
+  }
